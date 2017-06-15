@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<title> PRACTICA </title>
+</head>
+	<body>
+		<header>
+		<h1> PRACTICA PARA EVALUACION </h1>
+		</header>
+				<section>
+							<form>
+NOMBRES:<input type="text" name="nombre" placeholder="nombre apellido" title="Ingrese nombres" required autofocus > <br>
+NUMEROS:<input type="number" name="Numeros" placeholder="123456789" title="Ingrese numeros" required> <br>
+EMAIL:<input type="email" name="correo" placeholder="santosjeandx@gmail.com" required > <br>
+WEBSITE:<input type="url" name="direccion" placeholder="http://www.pagina.com" required > <br>
+RANGO:<input type="range" name="rango"> <br>
+FECHA:<input type="date" name="fecha" required><br>
+COLOR:<input type="color" name="elegir color">  <br>
+<button type="submit">Enviar</button>
+							</form>
+<!-- SUMA CON JAVASCRIPT-->
+<form oninput ="resultado.value=parseInt(valor1.value)+parseInt(valor2.value)">
+<input type ="number" id="valor1" value="0"> +
+<input type ="number" id="valor2" value="0"> =
+<output name ="resultado" for="valor1 valor2"> </output> 
+
+							</form>
+						</section>
+					<aside>
+<a href="http://www.google.com" title="GOOGLE">BUSQUEDA ONLINE</a>
+<p id="demo"></p>
+<!-- OPERACION JAVASCRIPT -->
+<script>
+document.write(5+8);
+</script>
+<!-- OPERACION QUE MUESTRA UN MENSAJE -->
+<script>
+window.alert(5+6);
+</script>
+</aside>
+</body>
+</html>
