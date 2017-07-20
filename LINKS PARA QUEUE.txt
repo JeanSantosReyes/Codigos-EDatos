@@ -1,0 +1,11 @@
+LINKS PARA QUEUE
+https://misapuntesdeprogramacion.wordpress.com/2013/03/07/queue/
+http://www.alegsa.com.ar/Dic/queue.php
+https://www.oscarblancarteblog.com/2014/08/01/estructura-de-datos-queue-cola/
+http://ict.udlap.mx/people/ingrid/Clases/IS211/Colas.html
+https://msdn.microsoft.com/es-es/library/s23s3de6.aspx
+
+http://www.taringa.net/posts/apuntes-y-monografias/15017762/Queue--java.html
+
+https://msdn.microsoft.com/es-es/library/system.collections.queue(v=vs.110).aspx
+http://digital.ni.com/public.nsf/allkb/6B63645C1217827786257D50007540F2
